@@ -4,7 +4,7 @@
 > réelles (vidéos + stats). Tant qu'il contient moins de 10 références, ses règles sont
 > des tendances, pas des lois.
 
-Niche : _à préciser_
+Niche : vidéaste / monteur / DA. Formats de départ : avant / après (rush → rendu), coulisses → résultat. Ouvert à d'autres hooks et formats si les données montrent mieux (2026-10-12).
 Comptes de référence : _à préciser_
 Dernière mise à jour : _jamais_ · Références : 0
 

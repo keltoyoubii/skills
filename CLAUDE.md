@@ -28,3 +28,11 @@ sed -i 's#https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js#gsap.min.js#
 ```
 
 `HYPERFRAMES_SKIP_SKILLS=1` évite que `init` retélécharge les skills.
+
+## Analyse de niche
+
+`/analyse-niche` décortique des Reels / TikTok de référence (fichiers + stats) et tient à
+jour `niche/PLAYBOOK.md`. **Avant tout montage 9:16, lire `niche/PLAYBOOK.md`** et dire
+quelles règles on applique. Les vidéos ne vont pas dans git ; seules les mesures, fiches et
+planches (`niche/refs/<id>/`) y vont. Le conteneur cloud ne joint ni TikTok ni Instagram :
+travailler à partir de fichiers fournis.
